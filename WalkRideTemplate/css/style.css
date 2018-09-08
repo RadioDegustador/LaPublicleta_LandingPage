@@ -478,7 +478,7 @@ header .buttons-wrapper .button-stripe {
 /* footer --------------------------  */
 
 footer {
-    background: #324a57;
+    background: #0e021c;
     color: white;
     font-size: 16px;
     line-height: 28px;
@@ -619,7 +619,7 @@ footer {
 }
 
 .comments {
-    background: #10bbf1;
+    background: #44117a;
     color: white;
     text-align: center;
     padding: 70px 0 60px;
@@ -765,7 +765,7 @@ footer {
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
     border-radius: 3px;
-    background-color: #3bcbff;
+    background-color:#3bcbff;
     color: white;
     text-align: center;
     -moz-transition: color 0.1s linear, background-color 0.1s linear, border-color 0.1s linear;
